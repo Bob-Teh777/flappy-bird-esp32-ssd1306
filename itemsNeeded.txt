@@ -1,0 +1,5 @@
+#Items Needed To Complete This Project
+ESP32 With Micropython Firmware
+Breadboard
+1 Tactile Button
+128X64 Pixel SSD1306 OLED
