@@ -1,3 +1,8 @@
+# Port of Adafruit GFX Arduino library to MicroPython.
+# Based on: https://github.com/adafruit/Adafruit-GFX-Library
+# Author: Tony DiCola (original GFX author Phil Burgess)
+# License: MIT License (https://opensource.org/licenses/MIT)
+
 class GFX:
 
     def __init__(self, width, height, pixel, hline=None, vline=None):
